@@ -1,0 +1,8 @@
+VectorClassification/pose3d-utils/*
+Data/PPimages1/*
+Data/PPimages2/*
+Data/PPimages3/*
+Data/PPimages4/*
+DataPreprocessing/pretrainedModels/*.pth
+*.pyo
+*.pyc

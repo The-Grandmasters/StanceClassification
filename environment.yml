@@ -1,0 +1,22 @@
+name: poseClass
+channels:
+  - conda-forge
+  - pytorch
+  - plotly
+  - defaults
+dependencies:
+  - python=3.8
+  - numpy
+  - pandas
+  - pytorch
+  - tensorflow
+  - pip
+  - plotly
+  - pillow
+  - scikit-image  
+  - scikit-learn  
+  - scipy
+  - semantic_version
+  - pip:
+    - munch==2.5.0
+    - pretrainedmodels==0.7.4
