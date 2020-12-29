@@ -1,7 +1,7 @@
 ## Introduction
-This project was initially a class project for our Soft Computing class. We created several classification models that identify the martial arts stance of a human subject as 1 of 7 possible stances. We sourced our own dataset for this project using online available images as well as images of our own.
-If you'd like to learn more about the project and see our results, please read our report included in this repository (StanceClassificationFinalReport.pdf).
-If you'd like to run our models for yourself, please see the section below for instructions on how to run our code. (Work in Progress)
+This project was initially a class project for our Soft Computing class. We created several classification models that identify the martial arts stance of a human subject as 1 of 7 possible stances. We sourced our own dataset for this project using online available images as well as images of our own. 
+If you'd like to learn more about the project and see our results, please read our report included in this repository (StanceClassificationFinalReport.pdf). 
+If you'd like to run our models for yourself, please see the section below for instructions on how to run our code. (Work in Progress)  
  
 ## Dataset
 * see the VectorClassification/Output to get the dataset the data, currently just labeled via filename. Use ```torch.load('file.pt')```
